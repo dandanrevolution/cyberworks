@@ -1,0 +1,1 @@
+/home/ladlibertine/test/OpenCV/edgecentre_final/CMakeFiles/edgecentre.dir
